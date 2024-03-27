@@ -10,19 +10,19 @@
 
 ## ➤ Menu:
 
-* [➤ Description]()
-* [➤ Repository Contents by Project Task]()
-* [➤ General Use]()
- * [➤ Commands]()
- * [➤ Alternative Syntax]()
-* [➤ Commands]()
-* [➤ Examples]()
-* [➤ Resources]()
-* [➤ General]()
-* [➤ Requirements]()
-* [➤ More Info]()
-* [➤ Tasks]()
-* [➤ Author]()
+* [➤ Description](https://github.com/wefixte/holbertonschool-AirBnB_clone_v2#-description-hbnb---the-console)
+* [➤ Repository Contents by Project Task](https://github.com/wefixte/holbertonschool-AirBnB_clone_v2#repository-contents-by-project-task)
+* [➤ General Use](https://github.com/wefixte/holbertonschool-AirBnB_clone_v2#general-use)
+ * [➤ Commands](https://github.com/wefixte/holbertonschool-AirBnB_clone_v2#commands)
+ * [➤ Alternative Syntax](https://github.com/wefixte/holbertonschool-AirBnB_clone_v2#alternative-syntax)
+* [➤ Examples](https://github.com/wefixte/holbertonschool-AirBnB_clone_v2#examples)
+* [➤ Background Context](https://github.com/wefixte/holbertonschool-AirBnB_clone_v2#-background-context)
+* [➤ Resources](https://github.com/wefixte/holbertonschool-AirBnB_clone_v2#-resources)
+* [➤ General](https://github.com/wefixte/holbertonschool-AirBnB_clone_v2#-general)
+* [➤ Requirements](https://github.com/wefixte/holbertonschool-AirBnB_clone_v2#-requirements)
+* [➤ More Info](https://github.com/wefixte/holbertonschool-AirBnB_clone_v2#-more-info)
+* [➤ Tasks](https://github.com/wefixte/holbertonschool-AirBnB_clone_v2#-teams-)
+* [➤ 👥 TEAMS :](https://github.com/wefixte/holbertonschool-AirBnB_clone_v2#-teams-)
 
 <center> <h1>➤ Description: HBNB - The Console</h1> </center>
 
