@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 
 # Flask decorator, bind root URL '/' to hello() function
-@app.route('/')
+@app.route('/', strict_slashes=False)
 def hello():
     """ Display "Hello HBTN!" when access """
     return "Hello HBTN!"
