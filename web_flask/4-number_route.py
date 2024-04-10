@@ -32,5 +32,11 @@ def pythontxt(text):
     return "Python {}".format(text.replace("_", " "))
 
 
+@app.route('/number/<int:n>', strict_slashes=False)
+def number(value):
+    """ Display integer when access /number route"""
+    return "{} is a number".format(value)
+
+
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
