@@ -1,8 +1,9 @@
 #!/usr/bin/python3
-""" script that starts a Flask web application """
+""" Script that starts a Flask web application """
 
 
 from flask import Flask
+
 # Create an instance with name of the current module
 app = Flask(__name__)
 
