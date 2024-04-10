@@ -12,6 +12,7 @@ def hello():
     """ Display "Hello HBTN!" when access """
     return "Hello HBTN!"
 
+
 @app.route('/hbtn', strict_slashes=False)
 def hbtn():
     """ Display "HBTN" """
