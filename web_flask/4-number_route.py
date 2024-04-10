@@ -28,13 +28,13 @@ def cfun(text):
 @app.route('/python/<text>', strict_slashes=False)
 @app.route('/python/', defaults={"text": "is cool"}, strict_slashes=False)
 def pythontxt(text):
-    """ Display string string when access /python route"""
+    """ Display string string when access /python route """
     return "Python {}".format(text.replace("_", " "))
 
 
 @app.route('/number/<int:n>', strict_slashes=False)
 def number(value):
-    """ Display integer when access /number route"""
+    """ Display integer when access /number route """
     return "{} is a number".format(value)
 
 
