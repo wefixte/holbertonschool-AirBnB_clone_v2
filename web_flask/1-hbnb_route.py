@@ -16,7 +16,7 @@ def hello_hbnb():
 
 @app.route('/hbtn', strict_slashes=False)
 def hbtn():
-    """ Display "HBTN" 
+    """ Display "HBTN"
     """
     return "HBTN"
 
