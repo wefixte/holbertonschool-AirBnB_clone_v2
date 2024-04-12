@@ -34,10 +34,10 @@ def pythontxt(text):
     return "Python {}".format(text.replace("_", " "))
 
 
-@app.route('/number/<int:value>', strict_slashes=False)
-def number(value):
+@app.route('/number/<int:n>', strict_slashes=False)
+def number(n):
     """ Display integer when access /number route """
-    return "{} is a number".format(value)
+    return "{} is a number".format(n)
 
 
 @app.route('/number_template/<int:n>', strict_slashes=False)
