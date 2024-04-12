@@ -27,8 +27,8 @@ def cfun(text):
     return "C {}".format(text.replace("_", " "))
 
 
-@app.route('/python/<text>', strict_slashes=False)
 @app.route('/python/', defaults={"text": "is cool"}, strict_slashes=False)
+@app.route('/python/<text>', strict_slashes=False)
 def pythontxt(text):
     """ Display string string when access /python route """
     return "Python {}".format(text.replace("_", " "))
